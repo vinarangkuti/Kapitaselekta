@@ -1,0 +1,1 @@
+Actually git push (appropriate means to enter) it is to enter the files or directories result of our work is done after every commit to a storage area projeknya (eg in this case is github).
